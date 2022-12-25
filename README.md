@@ -2,8 +2,7 @@
 
 ## App
 
-![todolist](asset/images/Screenshot%20from%202022-12-25%2002-24-54.png)
-
+![todolist](/asset/images/Screenshot%20from%202022-12-25%2002-24-54.png)
 
 ## AUTHOR
 
@@ -11,7 +10,7 @@
 
 ## About
 
-This project provide information About a fuctional list of things to be done  .
+This project provide information About a fuctional list of things to be done .
 
 ## BUILT WITH
 
@@ -32,10 +31,10 @@ This project provide information About a fuctional list of things to be done  .
 ## CLONE PROJECT
 
     - To get a local copy up and running follow these simple example steps.
-    - Clone this repository with `git@github.com:MALWICK/TOdo-list-js.git` using your terminal or command line.
+    - Clone this repository with `https://github.com/MALWICK/TOdo-list-js/pulls` using your terminal or command line.
     - Change to the project directory by entering: - $ `cd cv ` in the terminal.
 
 ## CONTRIBUTION
 
     Contributions, issues, and feature requests are welcome!
-    Feel free to check the [issues page]()
+    Feel free to check the [issues page](https://malwick.github.io/TOdo-list-js/)
